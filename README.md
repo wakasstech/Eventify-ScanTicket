@@ -1,10 +1,12 @@
 # Eventify-ScanTicket – 
 A full-stack Event Booking System where users can book tickets, and organizers can scan tickets using QR codes. Built with the MERN stack, this project includes both a web platform and a React Native mobile app for seamless event management.
 # Mobile App Demo 
-Click here: https://res.cloudinary.com/dkle20hdb/video/upload/v1741704677/mob-app_bistav.mp4
-![Image](https://github.com/user-attachments/assets/8cc663e3-6ce9-4d61-8fec-bce96dc06c76) ![Image](https://github.com/user-attachments/assets/fdc798ad-ffaa-45f5-908a-81f2e6201933)
+# Click here: https://res.cloudinary.com/dkle20hdb/video/upload/v1741704677/mob-app_bistav.mp4
+
+![Image](https://github.com/user-attachments/assets/8cc663e3-6ce9-4d61-8fec-bce96dc06c76) 
 # Admin & User Site Demo 
-Click here: https://res.cloudinary.com/dkle20hdb/video/upload/v1741704442/event-user-and-admin-site_mpdlog.mp4
+# Click here: https://res.cloudinary.com/dkle20hdb/video/upload/v1741704442/event-user-and-admin-site_mpdlog.mp4
+
 ![Image](https://github.com/user-attachments/assets/8589bc12-6b00-4542-9e4e-116a052a65d8) ![Image](https://github.com/user-attachments/assets/06236ded-51a6-473a-a510-0b1744c3092d)
 # 🔐 Tech Stack & Key Features:
 ✅ MERN Stack (MongoDB, Express, React.js, Node.js)
