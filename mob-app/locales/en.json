@@ -1,0 +1,32 @@
+{
+  "Languages": "Languages",
+
+  "welcome_to_buyright": "Welcome To BuyRight!",
+  "popular_title": "popular",
+  "location_map": "New AI Rayan, Qatar...",
+  "categories_title": "Categories",
+  "see_all": "See all",
+  "search_brand_product_category": "Search Brand, Products, Category...",
+  "might_need": "You might need",
+  "brands_title": "Brands",
+  "product_title": "Products",
+
+  "all_products": "All Products",
+  "search_products": "Search Products",
+  "search_brands": "Search Brands",
+
+  "product_detail": "Product detail",
+  "exist_in_boycott_list": "This is boycott product",
+  "description": "Description",
+  "alternative_products": "Alternative Products",
+
+  "brand_detail": "Brand Detail",
+  "what_u_looking": "What are you looking for?",
+
+  "here are all brands": "Here are all the brands in this category",
+
+  "home_screen": "Home",
+  "list_screen": "The Lists",
+  "news_screen": "News",
+  "donate_screen": "Donate"
+}

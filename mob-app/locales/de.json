@@ -1,0 +1,32 @@
+{
+  "Languages": "Deutsch",
+
+  "welcome_to_buyright": "Willkommen bei BuyRight",
+  "popular_title": "beliebt",
+  "location_map": "Neues AI Rayan, Katar...",
+  "categories_title": "Kategorien",
+  "see_all": "Alle ansehen",
+  "search_brand_product_category": "Marke, Produkte, Kategorie suchen...",
+  "might_need": "Sie könnten brauchen",
+  "brands_title": "Marken",
+  "product_title": "Produkte",
+
+  "all_products": "Alle Produkte",
+  "search_products": "Produkte suchen",
+  "search_brands": "Marken suchen",
+
+  "product_detail": "Produktdetails",
+  "exist_in_boycott_list": "Dies ist ein Boykottprodukt",
+  "description": "Beschreibung",
+  "alternative_products": "Alternative Produkte",
+
+  "brand_detail": "Markendetails",
+  "what_u_looking": "Wonach suchen Sie?",
+
+  "here are all brands": "Hier sind alle Marken in dieser Kategorie",
+
+  "home_screen": "Startseite",
+  "list_screen": "Listen",
+  "news_screen": "Nachrichten",
+  "donate_screen": "Spenden"
+}

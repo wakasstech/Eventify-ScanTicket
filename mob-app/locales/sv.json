@@ -1,0 +1,32 @@
+{
+  "Languages": "Svenska",
+
+  "welcome_to_buyright": "Välkommen till BuyRight",
+  "popular_title": "populär",
+  "location_map": "Nya AI Rayan, Qatar...",
+  "categories_title": "Kategorier",
+  "see_all": "Visa alla",
+  "search_brand_product_category": "Sök märke, produkter, kategori...",
+  "might_need": "Du kan behöva",
+  "brands_title": "Märken",
+  "product_title": "Produkter",
+
+  "all_products": "Alla produkter",
+  "search_products": "Sök produkter",
+  "search_brands": "Sök märken",
+
+  "product_detail": "Produktdetaljer",
+  "exist_in_boycott_list": "Detta är en bojkottad produkt",
+  "description": "Beskrivning",
+  "alternative_products": "Alternativa produkter",
+
+  "brand_detail": "Märkesdetaljer",
+  "what_u_looking": "Vad letar du efter?",
+
+  "here are all brands": "Här är alla märken i denna kategori",
+
+  "home_screen": "Hem",
+  "list_screen": "Listor",
+  "news_screen": "Nyheter",
+  "donate_screen": "Donera"
+}
